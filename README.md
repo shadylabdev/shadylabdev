@@ -1,16 +1,36 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://www.shady.to/logo.png" width="80" alt="Shady Labs logo" />
+</p>
 
-<!--
-**shadylabdev/shadylabdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🕶 Shady Labs  
+**The Privacy Layer of Solana.**
 
-Here are some ideas to get you started:
+Shady Labs is building the privacy backbone of Solana — enabling private DeFi with ZK access, stealth addresses, and secure swaps.  
+Integrated with **DefiLlama**, **Elusiv**, **Light Protocol**, and **Raydium**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧩 Core Modules
+- 🕵️‍♂️ **Stealth Address** — privacy-preserving wallet routing  
+- 🔒 **ZK Gate (View Key)** — zero-knowledge access layer  
+- ⚡ **Private Swap** — Raydium aggregator + ZK protection  
+- 🧠 **AI Scanner** — anomalies & risk insights  
+
+---
+
+### 🔗 Ecosystem Links
+🌐 Website — https://www.shady.to  
+📘 Docs — https://shadylabs.gitbook.io/shadylabs-docs  
+🐙 GitHub — https://github.com/shadylabdev  
+💬 Twitter — https://x.com/Shady_Labs  
+
+---
+
+### 🦙 Integrations
+- [x] DefiLlama Adapter (TVL tracking)  
+- [x] DefiLlama DEX Volume  
+- [x] Elusiv ZK Layer  
+- [x] Light Protocol zkCompression  
+- [x] SolanaFM Explorer Compatibility  
+
+> “Privacy isn’t optional — it’s a protocol layer.”
