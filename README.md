@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://www.shady.to/logo.png" width="80" alt="Shady Labs logo" />
+  <img src="https://i.imgur.com/2NCPruM.png" width="100" alt="Shady Labs logo" />
 </p>
 
 # 🕶 Shady Labs  
